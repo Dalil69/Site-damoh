@@ -297,7 +297,7 @@
 .availability-container1,
 .rectangle-group {
   display: flex;
- .align-items: flex-start;
+  align-items: flex-start;
   max-width: 100%;
 }
 .rectangle-group {

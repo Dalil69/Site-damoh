@@ -543,11 +543,6 @@
   justify-content: flex-start;
   gap: 20px;
 }
-.footer-content {
-  width: 906px;
-  justify-content: center;
-  max-width: 100%;
-}
 .image-2-icon {
   height: 43px;
   width: 151px;
